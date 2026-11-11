@@ -1,0 +1,16 @@
+{
+  "extraKnownMarketplaces": {
+    "caveman": {
+      "source": {
+        "source": "github",
+        "repo": "JakeBendle/caveman"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "caveman@caveman": true
+  },
+  "env": {
+    "CAVEMAN_DEFAULT_MODE": "caveman"
+  }
+}
